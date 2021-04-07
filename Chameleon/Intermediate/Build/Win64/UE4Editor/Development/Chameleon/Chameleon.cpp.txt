@@ -1,2 +1,0 @@
-D:\Chameleon-Thingy\Chameleon\Intermediate\Build\Win64\UE4Editor\Development\Chameleon\Definitions.Chameleon.h
-D:\Chameleon-Thingy\Chameleon\Source\Chameleon\Chameleon.h

@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UU\\ChameleonTeam\\Chameleon-Thingy\\Chameleon\\Source\\Chameleon\\Chameleon.Build.cs",
-		"C:\\UU\\ChameleonTeam\\Chameleon-Thingy\\Chameleon\\Source\\Chameleon.Target.cs",
-		"C:\\UU\\ChameleonTeam\\Chameleon-Thingy\\Chameleon\\Source\\ChameleonEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.1"
-}

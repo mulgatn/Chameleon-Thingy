@@ -1,9 +1,9 @@
-D:\Chameleon-Thingy\Chameleon\Intermediate\Build\Win64\UE4Editor\Development\Chameleon\Definitions.Chameleon.h
-C:\UE_Editor\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\UE_Editor\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Chameleon-Thingy\Chameleon\Source\Chameleon/ChameleonGameMode.h
-C:\UE_Editor\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\UE_Editor\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\UE_Editor\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\UE_Editor\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Chameleon-Thingy\Chameleon\Intermediate\Build\Win64\UE4Editor\Inc\Chameleon\ChameleonGameMode.generated.h
+C:\UU\ChameleonTeam\Chameleon-Thingy\Chameleon\Intermediate\Build\Win64\UE4Editor\Development\Chameleon\Definitions.Chameleon.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\UU\ChameleonTeam\Chameleon-Thingy\Chameleon\Source\Chameleon/ChameleonGameMode.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\uu\chameleonteam\chameleon-thingy\chameleon\intermediate\build\win64\ue4editor\inc\chameleon\ChameleonGameMode.generated.h

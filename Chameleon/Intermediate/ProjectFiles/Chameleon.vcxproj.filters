@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Chameleon.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0258C5B9-7C88-4D44-B1E5-D7F3241234F3}</UniqueIdentifier>
+      <UniqueIdentifier>{6493EE49-F81A-41DC-8F44-105A7AB0D0FC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Chameleon.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{00153700-F7BC-45F9-AEE2-B0308284DED7}</UniqueIdentifier>
+      <UniqueIdentifier>{3E1C76B0-A62A-40C0-BDA3-9C88215EBD68}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Chameleon">
-      <UniqueIdentifier>{38F501BE-47B0-400A-AF5D-A888B12BF0C5}</UniqueIdentifier>
+      <UniqueIdentifier>{120F70D9-E6A1-42BC-ADB4-FE05F7099DB2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Chameleon\Chameleon.Build.cs">
       <Filter>Source\Chameleon</Filter>

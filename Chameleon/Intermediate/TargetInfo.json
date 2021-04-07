@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Chameleon",
-			"Path": "D:\\Chameleon-Thingy\\Chameleon\\Source\\Chameleon.Target.cs",
+			"Path": "C:\\UU\\ChameleonTeam\\Chameleon-Thingy\\Chameleon\\Source\\Chameleon.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ChameleonEditor",
-			"Path": "D:\\Chameleon-Thingy\\Chameleon\\Source\\ChameleonEditor.Target.cs",
+			"Path": "C:\\UU\\ChameleonTeam\\Chameleon-Thingy\\Chameleon\\Source\\ChameleonEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

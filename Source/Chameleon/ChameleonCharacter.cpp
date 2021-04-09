@@ -53,27 +53,27 @@ AChameleonCharacter::AChameleonCharacter()
 void AChameleonCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
 {
 	// Set up gameplay key bindings
-	check(PlayerInputComponent);
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
-	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+	//check(PlayerInputComponent);
+	//PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+	//PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
-	PlayerInputComponent->BindAxis("MoveForward", this, &AChameleonCharacter::MoveForward);
-	PlayerInputComponent->BindAxis("MoveRight", this, &AChameleonCharacter::MoveRight);
+	//PlayerInputComponent->BindAxis("MoveForward", this, &AChameleonCharacter::MoveForward);
+	//PlayerInputComponent->BindAxis("MoveRight", this, &AChameleonCharacter::MoveRight);
 
-	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
-	// "turn" handles devices that provide an absolute delta, such as a mouse.
-	// "turnrate" is for devices that we choose to treat as a rate of change, such as an analog joystick
-	PlayerInputComponent->BindAxis("Turn", this, &APawn::AddControllerYawInput);
-	PlayerInputComponent->BindAxis("TurnRate", this, &AChameleonCharacter::TurnAtRate);
-	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
-	PlayerInputComponent->BindAxis("LookUpRate", this, &AChameleonCharacter::LookUpAtRate);
+	//// We have 2 versions of the rotation bindings to handle different kinds of devices differently
+	//// "turn" handles devices that provide an absolute delta, such as a mouse.
+	//// "turnrate" is for devices that we choose to treat as a rate of change, such as an analog joystick
+	//PlayerInputComponent->BindAxis("Turn", this, &APawn::AddControllerYawInput);
+	//PlayerInputComponent->BindAxis("TurnRate", this, &AChameleonCharacter::TurnAtRate);
+	//PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
+	//PlayerInputComponent->BindAxis("LookUpRate", this, &AChameleonCharacter::LookUpAtRate);
 
-	// handle touch devices
-	PlayerInputComponent->BindTouch(IE_Pressed, this, &AChameleonCharacter::TouchStarted);
-	PlayerInputComponent->BindTouch(IE_Released, this, &AChameleonCharacter::TouchStopped);
+	//// handle touch devices
+	//PlayerInputComponent->BindTouch(IE_Pressed, this, &AChameleonCharacter::TouchStarted);
+	//PlayerInputComponent->BindTouch(IE_Released, this, &AChameleonCharacter::TouchStopped);
 
-	// VR headset functionality
-	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AChameleonCharacter::OnResetVR);
+	//// VR headset functionality
+	//PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AChameleonCharacter::OnResetVR);
 }
 
 
